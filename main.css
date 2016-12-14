@@ -1,0 +1,22 @@
+/* css le monde */
+
+/* Color Picker */
+		
+		.yellow_BG {
+				background-color:#ffc600;
+				}
+
+/* class align */
+	
+		.align_center {
+			text-align: center;
+			}
+		.align_right {
+				text-align: right;
+				}
+
+/* Pictures Styles */
+
+		.logoP {
+				width: 20%;
+				}
